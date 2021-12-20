@@ -1,0 +1,33 @@
+{
+  "name": "immanuel_currah-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "immanuel_currah",
+  "license": "ISC",
+  "bin": {
+    "resume-me": "./index.js"
+  }
+  {
+    "name": "Immanuel Currah",
+    "website": "https://immanuelcurrah.github.io/Yug.io/",
+    "linkedin": "https://www.linkedin.com/in/immanuel-currah-647420220/",
+    "github": "https://github.com/ImmanuelCurrah",
+    "email": "immanueli.currah@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Node",
+    ],
+    "otherSkills": [
+        "Guitar",
+        "Reiki",
+        "Zen Meditation",
+        
+    ]
+  }
+  
+}
