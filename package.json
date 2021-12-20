@@ -10,24 +10,8 @@
   "license": "ISC",
   "bin": {
     "resume-me": "./index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
   }
-  {
-    "name": "Immanuel Currah",
-    "website": "https://immanuelcurrah.github.io/Yug.io/",
-    "linkedin": "https://www.linkedin.com/in/immanuel-currah-647420220/",
-    "github": "https://github.com/ImmanuelCurrah",
-    "email": "immanueli.currah@gmail.com",
-    "proficientTechnologies": [
-        "Javascript",
-        "React",
-        "Node",
-    ],
-    "otherSkills": [
-        "Guitar",
-        "Reiki",
-        "Zen Meditation",
-        
-    ]
-  }
-  
 }
